@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Project 1",
+      "imageSrc": "projects/project.png",
+      "description": "",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project 2",
+      "imageSrc": "projects/project.png",
+      "description": "",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project 3",
+      "imageSrc": "projects/project.png",
+      "description": "",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
+  

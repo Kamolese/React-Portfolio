@@ -41,7 +41,7 @@ z-index: 1;
 
 .contactBtn {
     text-decoration: none;
-    background-color: var(--color-text);
+    background-color: var(--color-primary);
     color: var(--color-text);
     border-radius: 100px;
     font-size: 30px;
@@ -81,7 +81,7 @@ z-index: 1;
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(127, 90, 240, 0.6);
+    background: rgba(97, 68, 184, 0.6);
     filter: blur(100px);
     z-index: 0;
 }
@@ -95,7 +95,7 @@ z-index: 1;
     top: 246px;
     right: 10vw;
     border-radius: 764px;
-    background: rgba(127, 90, 240, 0.6);
+    background: rgba(83, 59, 155, 0.6);
     filter: blur(100px);
     z-index: 0;
 }
