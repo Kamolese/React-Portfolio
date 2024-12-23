@@ -1,30 +1,13 @@
 [
     {
-      "role": "",
-      "organisation": "",
-      "startDate": "",
-      "endDate": "",
-      "experiences": [""],
-      "imageSrc": ""
+      "role": "Web3 - Beginner Level",
+      "experiences": ["Web3 Fundamentals: Currently studying blockchain technology, smart contracts, and decentralized applications (dApps). Learning Blockchain Development: Exploring the development of dApps using tools like Solidity, Ethereum, and Web3.js. "],
+      "imageSrc": "skills/web3.png"
     },
     {
-      "role": "",
-      "organisation": "",
-      "startDate": "",
-      "endDate": "",
-      "experiences": [""],
-      "imageSrc": ""
-    },
-    {
-      "role": "",
-      "organisation": "",
-      "startDate": "",
-      "endDate": "",
-      "experiences": [
-        "",
-        ""
-      ],
-      "imageSrc": ""
+      "role": "Professional or Technical Experience",
+      "experiences": ["Flutter: Developed cross-platform mobile applications with intuitive and optimized interfaces for Android and iOS. Firebase: Integrated backend services such as authentication, real-time databases, Firestore, and push notifications into scalable projects. React: Built dynamic and responsive user interfaces for web applications, focusing on reusable components and performance optimization."],
+      "imageSrc": "skills/prog.png"
     }
   ]
   

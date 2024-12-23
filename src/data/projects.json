@@ -1,11 +1,11 @@
 [
     {
-      "title": "Project 1",
+      "title": "WorthDiet",
       "imageSrc": "projects/project.png",
-      "description": "",
-      "skills": ["React", "Express", "Node"],
+      "description": "An app where users can create a diet for cutting (aiming at reducing body fat) or bulking (increasing muscle mass).",
+      "skills": ["Flutter", "Firebase"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/Kamolese/WorthDiet"
     },
     {
       "title": "Project 2",
